@@ -2,7 +2,7 @@
 
 ### Colson
 
-![](../.gitbook/assets/aaa.bmp)
+![](../.gitbook/assets/profilepicture.bmp)
 
 Hi I am Colson !!
 
@@ -60,7 +60,7 @@ Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 
 ### Colson
 
-![](../.gitbook/assets/aaa.bmp)
+![](../.gitbook/assets/profilepicture.bmp)
 
 Hi I am Colson !!
 
