@@ -12,38 +12,39 @@ dwokaawdowokadow
 
 {% tabs %}
 {% tab title="Ask me about" %}
+Community Care
 
+Recording meetings
 {% endtab %}
 
 {% tab title="Location" %}
-Netherlands\
+Netherlands
+
 Rotterdam
 
-UTC+2
+UTC+1 | UTC+2
 {% endtab %}
 
-{% tab title="Web3 Experience" %}
-2 years of Community Care
+{% tab title="Experience" %}
+Have been part of The Graph community for a year
 {% endtab %}
 
 {% tab title="Skills" %}
 Can do the floss
 
-Helps the communtity
-
-Has great technical knowledge
+Pedagogy
 {% endtab %}
 
 {% tab title="Advocate Roles" %}
-ommunity Care
-
-And stuff
+Community Care
 {% endtab %}
 
 {% tab title="Socials" %}
 [Twitter](https://twitter.com/ColsonGRTeacher)
 {% endtab %}
 {% endtabs %}
+
+
 
 {% hint style="info" %}
 Talk to Colson on Discord: Colson#9571
@@ -57,38 +58,41 @@ Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 
 
 
-### Colson 2
+### Colson
 
 ![](../.gitbook/assets/aaa.bmp)
 
+Hi I am Colson !!
+
+adowaokdaowad
+
+dwokaawdowokadow
+
 {% tabs %}
+{% tab title="Ask me about" %}
+Community Care
+{% endtab %}
+
 {% tab title="Location" %}
-Netherlands\
+Netherlands
+
 Rotterdam
 
-UTC+2
+UTC+1 | UTC+2
 {% endtab %}
 
-{% tab title="Ask me about" %}
-
-{% endtab %}
-
-{% tab title="Web3 Experience" %}
-2 years of Community Care
+{% tab title="Experience" %}
+Have been part of The Graph community for 1 year
 {% endtab %}
 
 {% tab title="Skills" %}
 Can do the floss
 
-Helps the communtity
-
-Has great technical knowledge
+Pedagogy
 {% endtab %}
 
 {% tab title="Advocate Roles" %}
-ommunity Care
-
-And stuff
+Community Care
 {% endtab %}
 
 {% tab title="Socials" %}
@@ -103,3 +107,4 @@ Talk to Colson on Discord: Colson#9571
 {% hint style="info" %}
 Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 {% endhint %}
+
