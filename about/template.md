@@ -2,7 +2,7 @@
 
 ### Samira
 
-![](../.gitbook/assets/aaa.bmp)
+![](../.gitbook/assets/profilepicture.bmp)
 
 Hi I am Samira!
 
