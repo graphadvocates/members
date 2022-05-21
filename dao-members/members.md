@@ -44,8 +44,6 @@ Community Care
 {% endtab %}
 {% endtabs %}
 
-
-
 {% hint style="info" %}
 Talk to Colson on Discord: Colson#9571
 {% endhint %}
@@ -58,11 +56,11 @@ Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 
 
 
-### Colson
+### Colson 2
 
 ![](../.gitbook/assets/profilepicture.bmp)
 
-Hi I am Colson !!
+Hi I am Colson 2 !!
 
 adowaokdaowad
 
@@ -101,10 +99,9 @@ Community Care
 {% endtabs %}
 
 {% hint style="info" %}
-Talk to Colson on Discord: Colson#9571
+Talk to Colson2 on Discord: Colson#9571
 {% endhint %}
 
 {% hint style="info" %}
-Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
+Follow Colson2 on [Twitter](https://twitter.com/ColsonGRTeacher)
 {% endhint %}
-
