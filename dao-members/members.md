@@ -103,3 +103,70 @@ Talk to Steinar on Discord: Steinnaaaar#9571
 {% hint style="info" %}
 I like Turtles!!!
 {% endhint %}
+
+
+
+
+
+### Pakaliscious
+
+![](../.gitbook/assets/pakaliscious.png)
+
+Hey I'm Pakaliscious, but I also go by Alex. 
+
+I'm an engineer with a passion for leveraging automation to help others. 
+
+In my freetime I enjoy learning about technology, playing guitar, and skateboarding.
+
+{% tabs %}
+{% tab title="Ask me about" %}
+Ops Committee
+{% endtab %}
+
+{% tab title="Location" %}
+Los Angeles
+
+California
+
+United States
+
+UTC-7 | UTC-8
+{% endtab %}
+
+{% tab title="Experience" %}
+Joined the DAO in April 2022
+
+Product engineer at Esri
+
+MA in Geography
+{% endtab %}
+
+{% tab title="Skills" %}
+DevOps/release engineering
+
+Live coding
+
+Communication
+{% endtab %}
+
+{% tab title="Advocate Roles" %}
+Community Care
+
+Technical Teacher
+
+Web3 Welcomer
+{% endtab %}
+
+{% tab title="Socials" %}
+[Twitter](https://twitter.com/alexpakalniskis)
+
+[Linkedin](https://www.linkedin.com/in/alexpakalniskis3/)
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Talk to Pakaliscious on Discord: pakaliscious#5147
+{% endhint %}
+
+
+
