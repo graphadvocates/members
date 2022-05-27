@@ -52,8 +52,6 @@ Talk to Colson on Discord: Colson#9571
 Follow Colson on [Twitter](https://twitter.com/ColsonGRTeacher)
 {% endhint %}
 
-###
-
 ### Steinar
 
 ![](../.gitbook/assets/steinar.bmp)
@@ -104,17 +102,13 @@ Talk to Steinar on Discord: Steinnaaaar#9571
 I like Turtles!!!
 {% endhint %}
 
-
-
-
-
 ### Pakaliscious
 
 ![](../.gitbook/assets/pakaliscious.png)
 
-Hey I'm Pakaliscious, but I also go by Alex. 
+Hey I'm Pakaliscious, but I also go by Alex.
 
-I'm an engineer with a passion for leveraging automation to help others. 
+I'm an engineer with a passion for leveraging automation to help others.
 
 In my freetime I enjoy learning about technology, playing guitar, and skateboarding.
 
@@ -167,6 +161,3 @@ Web3 Welcomer
 {% hint style="info" %}
 Talk to Pakaliscious on Discord: pakaliscious#5147
 {% endhint %}
-
-
-
