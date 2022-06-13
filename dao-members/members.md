@@ -161,3 +161,52 @@ Web3 Welcomer
 {% hint style="info" %}
 Talk to Pakaliscious on Discord: pakaliscious#5147
 {% endhint %}
+
+### Slava
+
+![](../.gitbook/assets/Slava.png)
+
+Hey I'm Slava, Product Manager in web3. Outside of work and crypto I love all kinds of powersports, dirt bikes, jet skis, etc. and love to snowboard.
+
+{% tabs %}
+{% tab title="Ask me about" %}
+Ops Committee
+{% endtab %}
+
+{% tab title="Location" %}
+Seattle, WA
+
+United States
+
+UTC-7 | UTC-8
+{% endtab %}
+
+{% tab title="Experience" %}
+DAO memeber since May 2022
+
+Crypto since 2020
+{% endtab %}
+
+{% tab title="Skills" %}
+Russian
+
+
+{% endtab %}
+
+{% tab title="Advocate Roles" %}
+Community Care
+
+Web3 Welcomer
+
+Event Evangelist
+{% endtab %}
+
+{% tab title="Socials" %}
+[Twitter](https://twitter.com/SlavaOnChain)
+
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Talk to me on Discord: Kanye East#0069
+{% endhint %}
