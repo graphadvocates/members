@@ -214,7 +214,7 @@ Talk to me on Discord: Kanye East#0069
 
 ### Tony
 
-![](../.gitbook/assets/tony.png)
+![](../.gitbook/assets/Tony.jpg)
 
 Hey, I'm Tony!
 
