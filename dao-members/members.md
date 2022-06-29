@@ -210,3 +210,63 @@ Event Evangelist
 {% hint style="info" %}
 Talk to me on Discord: Kanye East#0069
 {% endhint %}
+
+
+### Tony
+
+![](../.gitbook/assets/tonyk.jpg)
+
+Hey, I'm Tony!
+
+I'm a Data Engineer with a passion for learning and helping others improve their technical skills.
+
+Other than enjoying my time with family, I also love running (recreationally now), hacking on projects, and movies.
+
+{% tabs %}
+{% tab title="Ask me about" %}
+Ops Committee
+{% endtab %}
+
+{% tab title="Location" %}
+Elizabeth
+
+New Jersey
+
+United States
+
+UTC-7 | UTC-8
+{% endtab %}
+
+{% tab title="Experience" %}
+Joined the DAO in May 2022
+
+Data Engineer at Booz Allen Hamilton
+
+MS in Computer & Info. Tech
+{% endtab %}
+
+{% tab title="Skills" %}
+Data Engineering
+
+Subgraph Development
+
+Communication
+{% endtab %}
+
+{% tab title="Advocate Roles" %}
+Content Creator
+
+Technical Teacher
+
+{% endtab %}
+
+{% tab title="Socials" %}
+[Twitter](https://twitter.com/ynot_kip)
+
+[Linkedin](https://www.linkedin.com/in/tonykipkemboi/)
+{% endtab %}
+{% endtabs %}
+
+{% hint style="info" %}
+Talk to Tony on Discord: townee#2099
+{% endhint %}
